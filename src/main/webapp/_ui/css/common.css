@@ -1,0 +1,11 @@
+#cart-badge {
+    font-size: 14px;
+    background: orange;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #e7e7e7 !important;
+}
